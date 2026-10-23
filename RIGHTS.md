@@ -6,12 +6,12 @@ will be reviewed before the first map is accepted; every submission stores the v
 
 Version: `draft-1`
 
-When you upload a map to the Outwitters Community Hub you confirm:
+When you upload a map to the Wildwitters Community Hub you confirm:
 
 > I made this map and every picture in it myself, or I have the right to use and pass on everything it contains.
 > I give Undead Games a free, worldwide, permanent, non-exclusive right to use, copy, change, show and distribute the
-> map and its pictures in Outwitters and for the Outwitters community, including in the public repository
-> `outwitters-community-maps`. I stay named as the author. I can ask for my map to be removed; copies that were
+> map and its pictures in Wildwitters and for the Wildwitters community, including in the public repository
+> `wildwitters-community-maps`. I stay named as the author. I can ask for my map to be removed; copies that were
 > already made, and the history of the repository, may remain.
 
 Not allowed in a submission:

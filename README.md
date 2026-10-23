@@ -1,6 +1,6 @@
-# Outwitters Community Maps
+# Wildwitters Community Maps
 
-Maps made by the Outwitters community, built with the map editor at [game.outwitters.app/editor](https://game.outwitters.app/editor/).
+Maps made by the Wildwitters community, built with the map editor at [game.outwitters.app/editor](https://game.outwitters.app/editor/).
 Every week the community votes; the winner is featured in the game.
 
 > Status: the repository is set up, the first submissions are not open yet. The submission rules below are a
@@ -55,3 +55,11 @@ only the rights text in [RIGHTS.md](RIGHTS.md) that you confirm on upload applie
 ## Contact
 
 Questions and removal requests: open an issue in this repository.
+
+---
+
+Wildwitters is an independent, community-driven strategy game inspired by Outwitters.
+
+Outwitters is a game originally developed by One Man Left, LLC. Wildwitters is a separate project and is not affiliated with or endorsed by One Man Left, LLC.
+
+© 2026 WildWitters · by [undeadgames.org](https://undeadgames.org)
