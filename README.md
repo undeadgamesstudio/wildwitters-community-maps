@@ -1,6 +1,6 @@
 # Wildwitters Community Maps
 
-Maps made by the Wildwitters community, built with the map editor at [game.outwitters.app/editor](https://game.outwitters.app/editor/).
+Maps made by the Wildwitters community, built with the map editor at [editor.wildwitters.app](https://editor.wildwitters.app/).
 Every week the community votes; the winner is featured in the game.
 
 > Status: the repository is set up, the first submissions are not open yet. The submission rules below are a
